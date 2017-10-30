@@ -15,3 +15,7 @@ div#wall #tag-3.slick.wicked{
 div#wall #tag-4{
   display:none;
 }
+
+div#wall .parent div#tag-5.slick{
+  display:none;
+}
